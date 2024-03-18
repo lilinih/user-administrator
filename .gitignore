@@ -1,0 +1,4 @@
+/out
+/node_modules
+usersdatabase.db
+package-lock.json

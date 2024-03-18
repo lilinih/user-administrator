@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "noImplicitAny": false,
+      "outDir": "out" // This line specifies the output directory
+    },
+    "include": ["server/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
+  
